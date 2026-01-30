@@ -1,8 +1,0 @@
-{
-  "name": "Apni Duniya",
-  "short_name": "Apni",
-  "start_url": "./",
-  "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#2563eb"
-}
